@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Assignment_PH35132" parent="android:Theme.Material.Light.NoActionBar" >
+
+        <item name="fontFamily">@font/gelasio_variablefont_wght</item>
+
+    </style>
+</resources>
+
